@@ -16,12 +16,12 @@ Anaconda 1.9.7 </p>
 # 使用方法</p>
 1. 在/MLGame.py 內 import decisiontree(訓練程式)
 2. 開啟終端機，並按照上面連結的介紹打入指令
-</p>
+
 # 內部資料</p>
 - 訓練程式 ->  training code/decisiontree.py
 - 打乒乓程式 -> ml play code/ml_play_decisiontree.py
 - 專案設計報告 -> report/ML_0552050_final_DT.pptx
-</p>
+
 # 訓練結果</p>
 - 準確率 99.8%
 - 平均可打到speed 25以上
