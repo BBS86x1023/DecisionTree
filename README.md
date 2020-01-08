@@ -15,7 +15,8 @@ Anaconda 1.9.7 </p>
 
 # 使用方法</p>
 1. 在/MLGame.py 內 import decisiontree(訓練程式)
-2. 開啟終端機，並按照上面連結的介紹打入指令
+2. 開啟終端機，並按照上面連結的介紹打入指令 </p>
+python MLGame.py pingpong -i ml_play_decisiontree.py ml_play_decisiontree.py
 
 # 內部資料</p>
 - 訓練程式 ->  training code/decisiontree.py
